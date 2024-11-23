@@ -38,8 +38,6 @@ JavaScript: 0.8%
 
 Clone the repository:
 
-bash
-
 Copy code
 
 git clone https://github.com/ZozuliaMykyta/Simple.git

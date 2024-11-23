@@ -1,4 +1,3 @@
-Simple
 Simple is a learning project designed to enhance skills in web development by creating responsive and interactive interfaces using modern web technologies.
 
 📋 Overview
